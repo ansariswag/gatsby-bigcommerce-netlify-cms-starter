@@ -9,3 +9,6 @@ static/admin/*.bundle.*
 yarn-error.log
 .env
 lambda
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
